@@ -1,4 +1,6 @@
 # Calculator-Website
 Simple Calculator using JS, HTML, CSS
+<br><br>
 
-<img src="" alt="">
+![Calculator Image](Assets/Calculator.jpg)
+
